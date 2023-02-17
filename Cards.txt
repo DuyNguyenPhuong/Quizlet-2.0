@@ -1,0 +1,10 @@
+11,Giza Pyramids,Egypt
+10,Big Ben,England
+9,Kangaroo,Australia
+9,Banhmy,Vietnam
+9,Bun Cha,Vietnam
+8,Washington,America
+9,Ottawa,Canada
+7,Brasilia,Brazil
+6,Beijing,China
+9,Hanoi,Vietnam
