@@ -1,6 +1,10 @@
-# HW7 Flashcard Displayer
+# Quizlet 2.0
 
-## Overview
+## Overview:
+
+Tired of studying and don't have money for Quizlet? Let's use Quizlet 2.0, which is not only free but has more features that Quizlet
+
+You can add your card, specify which one is important to increase frequency, import another person's card,...
 
 The `FlashcardDisplayer` program displays the flashcards given in user input file. It will display the card with highest priority and change card's priority if user answer correctly or incorrectly.
 The program also can:
@@ -8,6 +12,8 @@ The program also can:
 - Allow user to go through the flashcards as many times as they wish
 - Save user's progress on the flashcards
 - Check if the user answered correctly
+
+![My Image](images/FlashCardDemo.png)
 
 ## Usage
 To use the `FlashcardDisplayer` program, run the following commands after downloading the code:
@@ -161,5 +167,4 @@ else{
             
 cards.add(cards.poll());   
 ```
-### JavaDocs style method comments
-We did the JavaDocs style method comments
+### Contacts: https://www.linkedin.com/in/duyngp/
